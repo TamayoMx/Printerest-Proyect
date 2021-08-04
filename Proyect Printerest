@@ -1,0 +1,1014 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script src="https://kit.fontawesome.com/962d6988ed.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap" rel="stylesheet">
+    <link href="PrinterestProyect.css" rel="stylesheet" type="text/css" />
+    <title>repl.it</title>
+  </head>
+  <body>
+    <div class="nav-container">
+        <div class="nav-subcontainer">
+            <div class="pinteres-icon">
+                <i class="fab fa-pinterest"></i>
+            </div>
+            <div class="container__home-botton">
+                <a href="#">Home<i class="fas fa-chevron-down arrow-responsive"></i></a>
+            </div>
+            <div class="container__following-botton">
+                <a href="#">Following</a>
+            </div>
+            <div class="search-container">
+                <i class="fas fa-search"></i>
+                <input type="text" placeholder="Search">
+            </div>
+            <div class="bell-container">
+                <i class="fas fa-bell"></i>
+            </div>
+            <div class="chat-container">
+                <i class="fas fa-comment-dots"></i>
+            </div>
+            <div class="usuario-container">
+                <i class="fas fa-user-circle"></i>
+            </div>
+            <div class="arrow-container">
+                <i class="fas fa-chevron-down"></i>
+            </div>
+        </div>
+    </div>  
+    
+    <div class="contenedor">
+     <div style="background-image: url('https://images.pexels.com/photos/917299/pexels-photo-917299.jpeg?cs=srgb&dl=pexels-jess-bailey-designs-917299.jpg&fm=jpg')">
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/944773/pexels-photo-944773.jpeg?cs=srgb&dl=pexels-shamia-casiano-944773.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/3680210/pexels-photo-3680210.jpeg?cs=srgb&dl=pexels-valeriia-miller-3680210.jpg&fm=jpg')">
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+      </div>
+     <div style="background-image: url('https://images.pexels.com/photos/5493218/pexels-photo-5493218.jpeg?cs=srgb&dl=pexels-anthony-shkraba-5493218.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/6757893/pexels-photo-6757893.jpeg?cs=srgb&dl=pexels-maria-paula-vieira-6757893.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/4915833/pexels-photo-4915833.jpeg?cs=srgb&dl=pexels-maria-orlova-4915833.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/6757029/pexels-photo-6757029.jpeg?cs=srgb&dl=pexels-lisa-fotios-6757029.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/5566352/pexels-photo-5566352.jpeg?cs=srgb&dl=pexels-elsa-s-5566352.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/6691858/pexels-photo-6691858.jpeg?cs=srgb&dl=pexels-rodnae-productions-6691858.jpg&fm=jpg')">
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+      </div>
+     <div style="background-image: url('https://images.pexels.com/photos/6744384/pexels-photo-6744384.jpeg?cs=srgb&dl=pexels-daria-shevtsova-6744384.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/6168330/pexels-photo-6168330.jpeg?cs=srgb&dl=pexels-vie-studio-6168330.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/4906450/pexels-photo-4906450.jpeg?cs=srgb&dl=pexels-maria-orlova-4906450.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/4141435/pexels-photo-4141435.jpeg?cs=srgb&dl=pexels-valeri-mak-4141435.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/1122637/pexels-photo-1122637.jpeg?cs=srgb&dl=pexels-irina-iriser-1122637.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/3881256/pexels-photo-3881256.jpeg?cs=srgb&dl=pexels-lina-kivaka-3881256.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/5591714/pexels-photo-5591714.jpeg?cs=srgb&dl=pexels-daniela-constantini-5591714.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/4916029/pexels-photo-4916029.jpeg?cs=srgb&dl=pexels-maria-orlova-4916029.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/6685428/pexels-photo-6685428.jpeg?cs=srgb&dl=pexels-syed-qaarif-andrabi-6685428.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/3551245/pexels-photo-3551245.jpeg?cs=srgb&dl=pexels-aleksey-kuprikov-3551245.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/4915534/pexels-photo-4915534.jpeg?cs=srgb&dl=pexels-maria-orlova-4915534.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/5845326/pexels-photo-5845326.jpeg?cs=srgb&dl=pexels-tim-samuel-5845326.jpg&fm=jpg')">
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+      </div>
+     <div style="background-image: url('https://images.pexels.com/photos/6662604/pexels-photo-6662604.jpeg?cs=srgb&dl=pexels-anastasiya-vragova-6662604.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/6497802/pexels-photo-6497802.jpeg?cs=srgb&dl=pexels-jonathan-borba-6497802.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/5874649/pexels-photo-5874649.jpeg?cs=srgb&dl=pexels-gabby-k-5874649.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/6243297/pexels-photo-6243297.jpeg?cs=srgb&dl=pexels-meru-bi-6243297.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/6662831/pexels-photo-6662831.jpeg?cs=srgb&dl=pexels-anastasiya-vragova-6662831.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/704960/pexels-photo-704960.jpeg?cs=srgb&dl=pexels-daria-shevtsova-704960.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/5910804/pexels-photo-5910804.jpeg?cs=srgb&dl=pexels-katerina-holmes-5910804.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/5014319/pexels-photo-5014319.jpeg?cs=srgb&dl=pexels-sinitta-leunen-5014319.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/6167401/pexels-photo-6167401.jpeg?cs=srgb&dl=pexels-vie-studio-6167401.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/6167401/pexels-photo-6167401.jpeg?cs=srgb&dl=pexels-vie-studio-6167401.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/6641247/pexels-photo-6641247.jpeg?cs=srgb&dl=pexels-karolina-grabowska-6641247.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/4916561/pexels-photo-4916561.jpeg?cs=srgb&dl=pexels-maria-orlova-4916561.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/5713435/pexels-photo-5713435.jpeg?cs=srgb&dl=pexels-ekaterina-5713435.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/6216926/pexels-photo-6216926.jpeg?cs=srgb&dl=pexels-eva-elijas-6216926.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/6033455/pexels-photo-6033455.jpeg?cs=srgb&dl=pexels-bruno-cervera-6033455.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/4101008/pexels-photo-4101008.jpeg?cs=srgb&dl=pexels-alasdair-braxton-4101008.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/3719018/pexels-photo-3719018.jpeg?cs=srgb&dl=pexels-adrianna-calvo-3719018.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/6033457/pexels-photo-6033457.jpeg?cs=srgb&dl=pexels-bruno-cervera-6033457.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/5257425/pexels-photo-5257425.jpeg?cs=srgb&dl=pexels-anna-shvets-5257425.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/5257425/pexels-photo-5257425.jpeg?cs=srgb&dl=pexels-anna-shvets-5257425.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+     <div style="background-image: url('https://images.pexels.com/photos/4117550/pexels-photo-4117550.jpeg?cs=srgb&dl=pexels-daria-shevtsova-4117550.jpg&fm=jpg')"> 
+     <div class="PantalladeBotones">
+        <div class="Botones">
+          <div class="pines">
+            <span>Mis pines g...</span>
+          </div>
+          <div class="guardar">
+            <span>Guardar</span>
+          </div>    
+        </div>
+        <div class="Youtube">
+          <div class="link">
+            <span>youtube.com</span>
+          </div>
+          <div class="load">
+            <img src="https://img.icons8.com/pastel-glyph/64/000000/upload--v1.png" />
+          </div>
+          <div class="puntos">
+            <img src="https://img.icons8.com/ios-filled/50/000000/ellipsis.png" />
+          </div>
+        </div>
+      </div>
+     </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
